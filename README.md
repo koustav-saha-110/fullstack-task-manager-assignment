@@ -32,7 +32,7 @@
     ```
 
 3. **Set up environment variables:**
-    - Create a `.env` file in the root and add necessary variables (``PORT`, `CLIENT_URL`, `MONGO_URI`, `JWT_SECRET`, `SALT_ROUNDS`).
+    - Create a `.env` file inside the server directory and add the necessary variables (``PORT`, `CLIENT_URL`, `MONGO_URI`, `JWT_SECRET`, `SALT_ROUNDS`).
 
 4. **Start the backend server:**
     ```bash
