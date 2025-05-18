@@ -11,9 +11,7 @@
 
 - User registration and login
 - Create, update, and delete tasks
-- Assign due dates and priorities
 - Mark tasks as complete/incomplete
-- Filter and search tasks
 - Responsive UI
 
 ## Running Locally
